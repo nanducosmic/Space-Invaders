@@ -3,7 +3,7 @@ let currentShooterIndex=202
 let width =15
 let direction =1
 let invadersId
-
+//comment
 for(let i=0;i<255;i++){
     const square=document.createElement('div')
     grid.appendChild(square)
